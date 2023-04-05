@@ -1,0 +1,200 @@
+@media (max-width: 3000px) {
+  .contact-form {
+    max-width: 1140px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .item {
+    width: 80%;
+  }
+  .owl-pagination {
+    right: 12%;
+  }
+}
+@media (max-width: 991px) {
+  .service-inner .col-md-4 {
+    flex: 100%;
+    max-width: 100%;
+  }
+  .service {
+    margin-top: 7rem;
+  }
+  .service-box {
+    top: inherit;
+    bottom: -5rem;
+    padding: 5rem 2rem;
+  }
+
+  .promise-row .col-md-6 {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .text-center-768 {
+    text-align: center;
+  }
+  .m-auto-768 {
+    margin: auto;
+  }
+  .man-image {
+    width: 30rem;
+    transform: translateY(16rem);
+  }
+  .contact-form {
+    display: block;
+  }
+  .contact-section {
+    height: 26rem;
+  }
+  .form-inner {
+    bottom: -10rem;
+  }
+  .input-field {
+    width: 100%;
+  }
+  .contact-form button {
+    width: 98%;
+    margin-top: 1.5rem;
+  }
+  .header-btn {
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+    margin-top: 2rem;
+  }
+  .navbar-collapse {
+    margin: 2rem 0;
+  }
+  .item {
+    padding: 8rem 6rem;
+  }
+}
+@media (max-width: 767px) {
+  .man-image {
+    width: 75%;
+    transform: translateY(6rem);
+  }
+}
+@media (max-width: 550px) {
+  html {
+    font-size: 58%;
+  }
+  .hero-section h1 {
+    font-size: 4.2rem;
+  }
+  .flex-5 img {
+    width: 13rem;
+  }
+  .lest-image {
+    width: 6rem !important;
+  }
+  .testiminial-big-heading {
+    font-size: 1.8rem;
+  }
+  .section-sub-heading {
+    width: 90%;
+  }
+  .owl-pagination {
+    position: inherit;
+    transform: rotate(0deg);
+  }
+  .img-testimonial-profile {
+    position: inherit;
+    transform: inherit;
+    margin: auto;
+  }
+  .item {
+    padding: 3rem 3rem;
+    width: 95%;
+  }
+  .form-inner {
+    width: 100%;
+  }
+
+  .service-box {
+    bottom: 1rem;
+  }
+  .testimonial-section {
+    background-size: inherit;
+  }
+  .mb-6 {
+    margin-bottom: 2rem;
+  }
+  .mb-sm-4 {
+    margin-bottom: 5rem;
+  }
+  .section-heading {
+    font-size: 2.6rem;
+  }
+}
+@media (max-width: 450px) {
+  .biodata {
+    gap: 1rem;
+  }
+  .biodata img {
+    width: 2rem;
+  }
+  .biodata .stars img {
+    width: 1.5rem;
+  }
+  .name {
+    font-size: 1.5rem;
+  }
+  .flex-5 img {
+    width: 12rem;
+    margin: 1rem 1rem;
+  }
+  .lest-image {
+    width: 4rem !important;
+  }
+}
+@media (max-width: 350px) {
+  .hero-btn {
+    width: 22rem;
+    font-size: 1.5rem;
+  }
+  .hero-section h1 {
+    font-size: 3.2rem;
+    margin-top: 3rem;
+  }
+  .sub-title {
+    margin: 2rem 0;
+  }
+  .bedbugs-heading {
+    font-size: 3.2rem;
+    margin: 0 1rem;
+  }
+  .contact-form {
+    width: 98%;
+    padding: 2.5rem 1rem;
+    font-size: 1.5rem;
+  }
+  .service-box {
+    padding: 2rem 2rem;
+  }
+}
+@media (max-width: 300px) {
+  html {
+    font-size: 56%;
+  }
+  .service {
+    height: 45rem;
+  }
+  .service-box {
+    width: 95%;
+  }
+  .navbar-brand img {
+    width: 12rem;
+  }
+  .testi-p {
+    font-size: 1.3rem;
+  }
+  .big-t-heading {
+    font-size: 2.2rem;
+  }
+  .service {
+    margin-top: 5rem;
+  }
+}
